@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\webapplication12\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\webapplication12\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\webapplication12\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|c:\\users\\deepak kumar\\source\\repos\\webapplication12\\webapplication12\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\webapplication12\\repository\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\repository\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\webapplication12\\models\\userregmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\models\\userregmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\webapplication12\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\webapplication12\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\webapplication12\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB77AB26-10B2-4181-8B15-B37EC40C28A1}|WebApplication12\\WebApplication12.csproj|solutionrelative:webapplication12\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 199,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication12\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication12\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-10-11T22:06:01.721Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication12\\Web.config",
+              "ToolTip": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Web.config",
+              "RelativeToolTip": "WebApplication12\\Web.config",
+              "ViewState": "AQIAAAwAAADAZmZmZmYkwD0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-27T08:40:25.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "WebApplication12\\Views\\User\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T03:01:45.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication12\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2022-10-12T21:00:29.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication12\\Views\\User\\Delete.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2022-10-12T20:58:40.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "WebApplication12\\Views\\User\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2022-10-12T20:34:17.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "WebApplication12\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2022-10-11T22:39:42.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Repository\\DAL.cs",
+              "RelativeDocumentMoniker": "WebApplication12\\Repository\\DAL.cs",
+              "ToolTip": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Repository\\DAL.cs",
+              "RelativeToolTip": "WebApplication12\\Repository\\DAL.cs",
+              "ViewState": "AQIAADYAAAAAm5mZmZn5v0YAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-10-11T19:56:40.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRegModel.cs",
+              "DocumentMoniker": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Models\\UserRegModel.cs",
+              "RelativeDocumentMoniker": "WebApplication12\\Models\\UserRegModel.cs",
+              "ToolTip": "C:\\Users\\DEEPAK KUMAR\\source\\repos\\WebApplication12\\WebApplication12\\Models\\UserRegModel.cs",
+              "RelativeToolTip": "WebApplication12\\Models\\UserRegModel.cs",
+              "ViewState": "AQIAAA4AAAAAMzMzMzPzvx8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-10-11T19:40:35.378Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
